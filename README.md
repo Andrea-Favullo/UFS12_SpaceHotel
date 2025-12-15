@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/22223dfa-1c02-4e8b-991a-025b7994a93e
 <p>(Realizzati su Blender)</p>
 <h3>Arredamento sala relax</h3>
 <p>Modellato da Andrea Favullo.</p>
-<p>Una poltroncina, ottomana, tavolino e divanino ispirati allo stile Frutiger Aero, in particolare <a target="_blank" href="https://i.redd.it/frutiger-aero-themed-hotel-located-at-germany-v0-94hor5m6axmd1.jpg?width=1046&format=pjpg&auto=webp&s=b632fdbec990f449baa87123ab8b35ba2dec4ae3">a questa immagine</a>.</p>
+<p>Una poltroncina, ottomana, tavolino e divanino ispirati allo stile Frutiger Aero, in particolare <a target="blank" href="https://i.redd.it/frutiger-aero-themed-hotel-located-at-germany-v0-94hor5m6axmd1.jpg?width=1046&format=pjpg&auto=webp&s=b632fdbec990f449baa87123ab8b35ba2dec4ae3">a questa immagine</a>.</p>
 <img width="1280" height="720" alt="FavulloAndrea_arredamento" src="https://github.com/user-attachments/assets/9176a9ed-bce2-4215-a177-e2f2647a2b4d" />
 
 <h3>Porte</h3>
