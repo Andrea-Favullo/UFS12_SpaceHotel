@@ -30,7 +30,10 @@ L'utente può:
 
 <h2>Video</h2>
 
-https://github.com/user-attachments/assets/22223dfa-1c02-4e8b-991a-025b7994a93e
+
+https://github.com/user-attachments/assets/53f66e3c-89e0-4f6b-829a-563467dbb7bd
+
+
 
 <h2>Render</h2>
 <p>(Realizzati su Blender)</p>
